@@ -1,3 +1,5 @@
+#Converts Temperatures from Celsius to Fahrenheit and saves output to File
+
 temperatures=[10,-20,-289,100]
 convertedTemps=[]
 finalValues = open("storedValues.txt" , 'w')
